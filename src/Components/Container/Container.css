@@ -1,0 +1,21 @@
+.inputUser{
+width: 500px;
+display: block;
+margin: 0 auto;
+}
+
+.AllUsers{
+    width: 100%;
+}
+
+.AllUsers div{
+    display: inline-block;
+}
+
+.container{
+    min-height: 100vh;
+    min-width: 100%;
+    margin: 0px;
+    padding: 20px;
+
+}

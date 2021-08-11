@@ -1,13 +1,18 @@
-li img {
-  width: 100px;
+img {
+  width: 120px;
 }
 
-li {
-  list-style-type: none;
+
+div{
+    
+    margin: 10px;
+    text-align: center;
 }
 
-ul {
-  width: max-content;
-  border: 3px pink dashed;
-  padding: 15px;
+.card{
+    border-radius: 30px !important;
+}
+
+p{
+    margin-bottom: 0px !important;
 }
